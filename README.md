@@ -1,7 +1,6 @@
-<div align="center">
-  <img height="150" src="assets/dog-moon.gif"  />
-</div>
+
+<img height="250" src="assets/dog-moon.gif"  />
 
 ###
 
-<h3 align="center"> "Se não encontrar seu caminho, então crie-o!"</h3>
+<h3> "Se não encontrar seu caminho, então crie-o!"</h3>

@@ -1,2 +1,2 @@
 
-<img width="100%" src="assets/dog-moon.gif"  />
+<img width="90%" src="assets/dog-moon.gif"  />
